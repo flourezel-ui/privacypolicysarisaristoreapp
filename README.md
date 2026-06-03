@@ -1,4 +1,4 @@
-# privacypolicysarisaristoreapp
+# Privacy Policy Sari-Sari Store App
 Privacy Policy Sari Sari Store app
 Privacy Policy for Sari-Sari Store Inventory App
 
